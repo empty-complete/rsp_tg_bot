@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Git
+.git
+.gitignore
+
+# Docker и CI
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# OS/Editor junk
+.DS_Store
+*.swp
+*.swo
+*.bak
+
+# Логи
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Other
+pyrightconfig.json
+
