@@ -1,1 +1,1 @@
-# Rock-scissors-paper teleram bot game
+# Rock-scissors-paper telegram bot game
