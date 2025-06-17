@@ -1,1 +1,1 @@
-# tg_book_bot
+# Rock-scissors-paper teleram bot game
