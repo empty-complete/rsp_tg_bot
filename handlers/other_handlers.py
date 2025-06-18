@@ -11,4 +11,4 @@ router = Router()
 # without "/start" and "/help"
 @router.message()
 async def send_echo(message: Message):
-    await message.reply(text=LEXICON_RU["trash"])
+    await message.reply(text=LEXICON_RU["other_answer"])
