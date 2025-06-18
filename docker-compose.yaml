@@ -1,9 +1,0 @@
-services:
-  app:
-    image: ghcr.io/astral-sh/uv:0.7.13
-    container_name: uv_app
-    working_dir: /app
-    volumes:
-      - .:/app
-      - ./logs:/app/logs
-    command: uv run main.py > logs/output.log 2>&1
